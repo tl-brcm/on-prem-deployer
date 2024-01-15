@@ -1,0 +1,17 @@
+cr.fluentbit.io/fluent/fluent-bit:1.9.5
+percona/percona-xtradb-cluster-operator:1.12.0
+percona/percona-xtradb-cluster:8.0.29-21.1
+prom/mysqld-exporter:v0.12.1
+securityservices.packages.broadcom.com/admin-svc:2.1.5.1047
+securityservices.packages.broadcom.com/authhub-adminconsole:2.1.5.1047
+securityservices.packages.broadcom.com/authhub-signin:2.1.5.1047
+securityservices.packages.broadcom.com/authmgr:2.1.5.1047
+securityservices.packages.broadcom.com/factors-svc:2.1.5.1047
+securityservices.packages.broadcom.com/hazelcast-enterprise:5.1.7-alpine3180
+securityservices.packages.broadcom.com/iaservice:2.1.5.1047
+securityservices.packages.broadcom.com/network-data-loader:1.0.1147
+securityservices.packages.broadcom.com/oidc-svc:2.1.5.1047
+securityservices.packages.broadcom.com/opa:2.1.5.1047
+securityservices.packages.broadcom.com/ssp-db-initializer:2.1.5.1047
+securityservices.packages.broadcom.com/ssprisk-svc:2.1.5.1047
+securityservices.packages.broadcom.com/ui-helper-svc:2.1.5.1047
